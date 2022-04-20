@@ -37,5 +37,9 @@
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhinoxD&count_private=true&show_icons=true&theme=tokyonight)
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhinoxD)
+
 [website]: https://shivamsk.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/the-shivamkumar/
