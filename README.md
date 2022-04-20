@@ -11,7 +11,7 @@
 
 [![website](https://www.svgrepo.com/show/352078/globe.svg)](https://shivamsk.herokuapp.com/#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](https://www.svgrepo.com/show/217760/linkedin.svg)](https://www.linkedin.com/in/the-shivamkumar/#gh-dark-mode-only)
+[![website](<img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/305259/linkedin.svg" style="padding-right:10px;" />)](https://www.linkedin.com/in/the-shivamkumar/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
