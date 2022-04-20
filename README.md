@@ -1,7 +1,5 @@
 # Hi there, I'm Shivam - aka [rhinoxD][website] 👋
 
-[![Website](https://img.shields.io/website&style=for-the-badge&url=https://shivamsk.herokuapp.com/)](https://shivamsk.herokuapp.com/)
-
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -11,11 +9,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://shivamsk.herokuapp.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://shivamsk.herokuapp.com/#gh-dark-mode-only)
+[![website](https://www.svgrepo.com/show/352078/globe.svg)](https://shivamsk.herokuapp.com/#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/the-shivamkumar/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/the-shivamkumar/#gh-dark-mode-only)
+[![website](https://www.svgrepo.com/show/299484/linkedin.svg)](https://www.linkedin.com/in/the-shivamkumar/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
@@ -35,9 +31,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
 [<img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/349893/terminal.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/343944/terminal-fill.svg" />]
 
-<br />
 <br />
 
 ---
