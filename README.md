@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[![website](https://www.svgrepo.com/show/352078/globe.svg)](https://shivamsk.herokuapp.com/)
+[!<img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/352078/globe.svg" style="padding-right:10px;" />](https://shivamsk.herokuapp.com/)
 &nbsp;&nbsp;
-[![website]<img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/305259/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/the-shivamkumar/)
+[!<img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/305259/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/the-shivamkumar/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
