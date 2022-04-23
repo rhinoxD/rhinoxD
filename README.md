@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/40309/earth-globe.svg" style="padding-right:10px;" />](https://shivamsk.herokuapp.com/)
+[<img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/40309/earth-globe.svg" style="padding-right:10px;" />](https://shivamsk.netlify.app/)
 &nbsp;&nbsp;
 [<img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/299484/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/the-shivamkumar/)
 &nbsp;&nbsp;
