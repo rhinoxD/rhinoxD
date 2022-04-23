@@ -44,5 +44,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhinoxD&layout=compact)
 
-[website]: https://shivamsk.herokuapp.com/
+[website]: https://shivamsk.netlify.app/
 [linkedin]: https://www.linkedin.com/in/the-shivamkumar/
