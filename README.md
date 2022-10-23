@@ -2,7 +2,7 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love to workout and play games
