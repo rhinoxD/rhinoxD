@@ -42,6 +42,10 @@
 
 ---
 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rhinoxD&theme=highcontrast&hide_border=true" alt="rhinoxD" />
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhinoxD&layout=compact)
 
 [website]: https://shivamsk.netlify.app/
