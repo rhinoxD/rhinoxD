@@ -55,5 +55,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhinoxD&layout=compact)
 
+---
+
+### Activity Trends
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rhinoxD&theme=dracula&hide_border=true)
+
 [website]: https://shivamsk.netlify.app/
 [linkedin]: https://www.linkedin.com/in/the-shivamkumar/
