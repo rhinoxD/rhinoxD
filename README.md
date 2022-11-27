@@ -38,7 +38,7 @@
 ## 📈 My GitHub Stats
 ### GitHub Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhinoxD&count_private=true&show_icons=true&theme=tokyonight)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhinoxD&count_private=true&show_icons=true&theme=radical)
 
 ---
 
