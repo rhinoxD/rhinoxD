@@ -1,4 +1,4 @@
-# Hi there, I'm Shivam - aka [rhinoxD][website] 👋
+# Hi there, I'm Shivam - aka [shivamszero][website] 👋
 
 ## I'm a Developer!!
 
