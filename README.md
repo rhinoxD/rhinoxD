@@ -51,13 +51,13 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhinoxD&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhinoxD&layout=compact&theme=transparent)
 
 ---
 
 ### Activity Trends
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rhinoxD&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rhinoxD&theme=react-dark&hide_border=true)
 
 [website]: https://shivamsk.netlify.app/
 [linkedin]: https://www.linkedin.com/in/the-shivamkumar/
