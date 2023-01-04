@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to open source projects
+- 🥅 2023 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love to workout and play games
 
 ### Connect with me:
