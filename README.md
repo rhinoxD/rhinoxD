@@ -12,7 +12,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/40309/earth-globe.svg" style="padding-right:10px;" />](https://shivamsk.netlify.app/)
 &nbsp;&nbsp;
 [<img align="left" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/299484/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/the-shivamkumar/)
-[<img align="left" alt="HTML5" width="26px" src="https://showwcase-companies-logos.s3.amazonaws.com/showwcase_1649326857208.png"/>](https://www.showwcase.com/shivamszero)
+[<img align="left" alt="HTML5" width="26px" src="https://play-lh.googleusercontent.com/XOzPJm3Uvfe8-xoLuGKCCIz2ssJp0GBspMa7jnvCbHAMxzJbvxxO84zqNGmc6VhGE0dQ=w240-h480-rw"/>](https://www.showwcase.com/shivamszero)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
