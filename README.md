@@ -1,11 +1,9 @@
-# Hi there, I'm Shivam - aka [shivamszero][website] 👋
-
-## I'm a Developer!!
+# Hi there, I'm Shivam - aka [shivamszero][website]👋
 
 - 🌱 Always learning
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to open source projects
-- ⚡ Fun fact: I love to workout and play games
+- 👯 I’m looking forward to connecting with other devs
+- 🥅 2023 Goals: Contribute more to open-source projects
+- ⚡ Fun fact: I enjoy working out and playing games
 
 ### Connect with me:
 
