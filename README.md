@@ -61,7 +61,7 @@
 
 ### Activity Trends
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rhinoxD&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhinoxD&theme=tokyo-night)
 
 [website]: https://shivamsk.netlify.app/
 [linkedin]: https://www.linkedin.com/in/the-shivamkumar/
