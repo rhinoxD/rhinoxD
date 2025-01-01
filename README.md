@@ -2,7 +2,6 @@
 
 - 🌱 Always learning
 - 👯 I’m looking forward to connecting with other devs
-- 🥅 2024 Goals: ...
 - ⚡ Fun fact: I enjoy working out and playing games
 
 ### Connect with me:
